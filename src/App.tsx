@@ -8,7 +8,7 @@ const posts : PostType[] =[
   {
     id: 1,
     author: {
-      avatarUrl: 'https://github.com/BrenoJLeal.png',
+      avatarUrl: 'https://github.com/BrenoJLeal02.png',
        name: 'Breno J. Leal',
        role: 'Web Developer'
     },

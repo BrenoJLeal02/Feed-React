@@ -1,10 +1,10 @@
 import { ChangeEvent, FormEvent, InvalidEvent, useState } from 'react'
 import styles from './Post.module.css'
-import avatarP from '../../assets/perfil.jpeg'
+import avatarP from '../../assets/react.svg'
 import { Comment } from '../Comment/Comment'
 import { Avatar } from '../Avatar/Avatar'
 import { format, formatDistanceToNow, Locale } from 'date-fns'
-import ptBR from 'date-fns/locale/pt-BR'
+import {ptBR} from 'date-fns/locale/pt-BR'
 
 interface Author{
   name: string;
