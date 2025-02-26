@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import styles from './Comment.module.css'
 import { ThumbsUp, Trash } from '@phosphor-icons/react'
 import avatarP from '../../assets/perfil.jpeg'
